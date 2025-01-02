@@ -1,7 +1,3 @@
-Here’s a revised and more polished GitHub post for your project:  
-
----
-
 ## 🌟 **AI Image Generator: Transforming Text Into Stunning Visuals** 🌟  
 
 Hello, fellow developers and AI enthusiasts! 🎉  
